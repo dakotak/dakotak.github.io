@@ -1,4 +1,4 @@
-baseURL = 'http://dakotak.github.io/'
+baseURL = 'https://dakotak.github.io/'
 languageCode = 'en-us'
 title = 'Dakota Knutson'
 theme = 'cactus'
